@@ -5,7 +5,7 @@ Documentos para la entrevista Train the Trainers
 - 5 Courses *(Complete)*
 
 **Python 3 Programming**
-- 5 Courses *Complete*
+- 5 Courses *(Complete)*
 
 **Practical Tensorflow**
 - 2 Courses
