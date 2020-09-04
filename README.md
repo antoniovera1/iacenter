@@ -2,7 +2,7 @@
 Documentos para la entrevista Train the Trainers
 
 **Python for Everybody**
-- 5 Courses *Complete*
+- 5 Courses *(Complete)*
 
 **Python 3 Programming**
 - 5 Courses *Complete*
